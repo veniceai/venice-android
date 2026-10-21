@@ -1,6 +1,6 @@
 # Venice for Android
 
-This repository publishes the full-feature Android build of [Venice](https://venice.ai) as an APK. It contains releases only, no source code.
+This repository publishes the full-feature Android build of [Venice](https://venice.ai) as an APK.
 
 This build includes features that aren't available in the [Google Play version](https://play.google.com/store/apps/details?id=com.ai.venice). If you'd rather install from a store, use Google Play or the [App Store](https://apps.apple.com/app/id6742061900).
 
